@@ -1,0 +1,54 @@
+# מור אנד מור — Generative Engine Optimization Map
+
+> A שירותי תחזוקה טכנית business.
+
+---
+
+## Pages
+
+### Home
+https://-42eba7c9.zappy5.app
+
+### Services
+https://-42eba7c9.zappy5.app/services
+
+### About
+https://-42eba7c9.zappy5.app/about
+
+### Contact
+https://-42eba7c9.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-42eba7c9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-42eba7c9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-42eba7c9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מור אנד מור
+מור אנד מור is a business in the שירותי תחזוקה טכנית industry.
+
+## Target Audience
+- מהנדסי תעשייה
+- צוות תחזוקה בבתי חולים
+
+## Industry
+שירותי תחזוקה טכנית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-42eba7c9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-42eba7c9.zappy5.app/robots.txt
